@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetRelationshipsBetweenObjects.Module", "HowToSetRelationshipsBetweenObjects.Module\HowToSetRelationshipsBetweenObjects.Module.vbproj", "{0DBD22C3-3D8F-40C3-B75C-5E4189B9B8CE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetRelationshipsBetweenObjects.Module.Web", "HowToSetRelationshipsBetweenObjects.Module.Web\HowToSetRelationshipsBetweenObjects.Module.Web.vbproj", "{4DA6E7D4-7152-4062-83A7-20A28C6A4D04}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetRelationshipsBetweenObjects.Web", "HowToSetRelationshipsBetweenObjects.Web\HowToSetRelationshipsBetweenObjects.Web.vbproj", "{46FD9620-67D5-4190-AC44-365B6859CF69}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetRelationshipsBetweenObjects.Module.Win", "HowToSetRelationshipsBetweenObjects.Module.Win\HowToSetRelationshipsBetweenObjects.Module.Win.vbproj", "{06DE4EBC-6138-48E6-B1C4-CEEBAFB1FB8A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetRelationshipsBetweenObjects.Win", "HowToSetRelationshipsBetweenObjects.Win\HowToSetRelationshipsBetweenObjects.Win.vbproj", "{5802E27F-3D12-4D2B-A602-737A25A28C71}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBD22C3-3D8F-40C3-B75C-5E4189B9B8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBD22C3-3D8F-40C3-B75C-5E4189B9B8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBD22C3-3D8F-40C3-B75C-5E4189B9B8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBD22C3-3D8F-40C3-B75C-5E4189B9B8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA6E7D4-7152-4062-83A7-20A28C6A4D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA6E7D4-7152-4062-83A7-20A28C6A4D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA6E7D4-7152-4062-83A7-20A28C6A4D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA6E7D4-7152-4062-83A7-20A28C6A4D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FD9620-67D5-4190-AC44-365B6859CF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FD9620-67D5-4190-AC44-365B6859CF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FD9620-67D5-4190-AC44-365B6859CF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FD9620-67D5-4190-AC44-365B6859CF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DE4EBC-6138-48E6-B1C4-CEEBAFB1FB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DE4EBC-6138-48E6-B1C4-CEEBAFB1FB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DE4EBC-6138-48E6-B1C4-CEEBAFB1FB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DE4EBC-6138-48E6-B1C4-CEEBAFB1FB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5802E27F-3D12-4D2B-A602-737A25A28C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5802E27F-3D12-4D2B-A602-737A25A28C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5802E27F-3D12-4D2B-A602-737A25A28C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5802E27F-3D12-4D2B-A602-737A25A28C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
